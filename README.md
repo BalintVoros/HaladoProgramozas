@@ -4,7 +4,7 @@ Haladó Programozás Megoldott feladatok
 2023/2024/1 félévben elkészített Feladatok:
 
 <h2>
-  ZH1:10/10
+<p>ZH1:10/10</p>
 
 ZH2:10/10
 

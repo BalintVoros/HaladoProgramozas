@@ -1,0 +1,54 @@
+
+
+1. feladat
+Latszolag jo
+
+
+2. feladat
+16
+
+
+3. feladat
+0 : 5416.67
+1 : 1146.43
+2 : 2303.7
+5 : 1071.43
+9 : 5951.85
+12 : 7352.94
+16 : 837.5
+17 : 2747.83
+18 : 764.286
+19 : 10057.4
+22 : 4227.78
+24 : 6366.67
+25 : 2040.62
+26 : 3095.24
+27 : 1247.37
+29 : 10058.1
+
+
+4. feladat
+Budapest : 18 19 26
+Debrecen : 27
+Gyor : 0 12
+Nyiregyhaza : 22
+Pecs : 2 24
+Szeged : 9 16 29
+Veszprem : 1 5 17 25
+
+
+5. feladat
+At Veszprem had 28 sales with a total value of 32100
+At Pecs had 54 sales with a total value of 124400
+At Szeged had 54 sales with a total value of 321400
+At Gyor had 34 sales with a total value of 250000
+At Szeged had 32 sales with a total value of 26800
+At Veszprem had 23 sales with a total value of 63200
+At Budapest had 28 sales with a total value of 21400
+At Budapest had 54 sales with a total value of 543100
+At Veszprem had 32 sales with a total value of 65300
+At Budapest had 21 sales with a total value of 65000
+At Szeged had 43 sales with a total value of 432500
+
+
+Vege

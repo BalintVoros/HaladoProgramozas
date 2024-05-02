@@ -1,0 +1,110 @@
+main() eleje!
+
+Adatbazis teszt
+
+Rekordok szama: 21
+Jo munkat!
+
+
+1. feladat - betoltes() teszt
+
+Jatekok szama: 21
+Grand Dog Park (6.6) -- 6 fo, 30 perc, komplexitas: 1.33
+Secrets of the Lost Tomb (7.3) -- 6 fo, 120 perc, komplexitas: 3.19
+Not Alone (7) -- 7 fo, 45 perc, komplexitas: 2
+Black Gold (6.8) -- 5 fo, 120 perc, komplexitas: 2.59
+Photosynthesis (7) -- 4 fo, 60 perc, komplexitas: 2.26
+Star Realms (7.6) -- 2 fo, 20 perc, komplexitas: 1.93
+Saboteur (6.5) -- 10 fo, 30 perc, komplexitas: 1.32
+Voidfall (8.7) -- 4 fo, 240 perc, komplexitas: 4.58
+Forestaurant (7.4) -- 5 fo, 45 perc, komplexitas: 2.4
+Tikal (7.3) -- 4 fo, 90 perc, komplexitas: 2.78
+Mombasa (7.9) -- 4 fo, 150 perc, komplexitas: 3.9
+Petrichor (6.9) -- 4 fo, 80 perc, komplexitas: 3.01
+Battles of Westeros (7.2) -- 2 fo, 120 perc, komplexitas: 3.22
+For Sale (7.2) -- 6 fo, 30 perc, komplexitas: 1.25
+Power Grid (7.8) -- 6 fo, 120 perc, komplexitas: 3.26
+Century: Spice Road (7.3) -- 5 fo, 45 perc, komplexitas: 1.8
+Tawantinsuyu: The Inca Empire (7.4) -- 4 fo, 120 perc, komplexitas: 4.1
+Great Western Trail (8.2) -- 4 fo, 150 perc, komplexitas: 3.7
+Praetor (6.6) -- 5 fo, 75 perc, komplexitas: 3
+Zombicide: Black Plague (7.6) -- 6 fo, 180 perc, komplexitas: 2.49
+Bargain Hunter (6.7) -- 4 fo, 45 perc, komplexitas: 1.87
+
+2. feladat - ujJatek() teszt
+
+Jatekok szama: 22
+Grand Dog Park (6.6) -- 6 fo, 30 perc, komplexitas: 1.33
+Secrets of the Lost Tomb (7.3) -- 6 fo, 120 perc, komplexitas: 3.19
+Not Alone (7) -- 7 fo, 45 perc, komplexitas: 2
+Black Gold (6.8) -- 5 fo, 120 perc, komplexitas: 2.59
+Photosynthesis (7) -- 4 fo, 60 perc, komplexitas: 2.26
+Star Realms (7.6) -- 2 fo, 20 perc, komplexitas: 1.93
+Saboteur (6.5) -- 10 fo, 30 perc, komplexitas: 1.32
+Voidfall (8.7) -- 4 fo, 240 perc, komplexitas: 4.58
+Forestaurant (7.4) -- 5 fo, 45 perc, komplexitas: 2.4
+Tikal (7.3) -- 4 fo, 90 perc, komplexitas: 2.78
+Mombasa (7.9) -- 4 fo, 150 perc, komplexitas: 3.9
+Petrichor (6.9) -- 4 fo, 80 perc, komplexitas: 3.01
+Battles of Westeros (7.2) -- 2 fo, 120 perc, komplexitas: 3.22
+For Sale (7.2) -- 6 fo, 30 perc, komplexitas: 1.25
+Power Grid (7.8) -- 6 fo, 120 perc, komplexitas: 3.26
+Century: Spice Road (7.3) -- 5 fo, 45 perc, komplexitas: 1.8
+Tawantinsuyu: The Inca Empire (7.4) -- 4 fo, 120 perc, komplexitas: 4.1
+Great Western Trail (8.2) -- 4 fo, 150 perc, komplexitas: 3.7
+Praetor (6.6) -- 5 fo, 75 perc, komplexitas: 3
+Zombicide: Black Plague (7.6) -- 6 fo, 180 perc, komplexitas: 2.49
+Bargain Hunter (6.7) -- 4 fo, 45 perc, komplexitas: 1.87
+Nusfjord (7.6) -- 5 fo, 100 perc, komplexitas: 2.84
+
+3. feladat - rosszakatTorol() teszt
+
+Jatekok szama: 16
+Secrets of the Lost Tomb (7.3) -- 6 fo, 120 perc, komplexitas: 3.19
+Not Alone (7) -- 7 fo, 45 perc, komplexitas: 2
+Photosynthesis (7) -- 4 fo, 60 perc, komplexitas: 2.26
+Star Realms (7.6) -- 2 fo, 20 perc, komplexitas: 1.93
+Voidfall (8.7) -- 4 fo, 240 perc, komplexitas: 4.58
+Forestaurant (7.4) -- 5 fo, 45 perc, komplexitas: 2.4
+Tikal (7.3) -- 4 fo, 90 perc, komplexitas: 2.78
+Mombasa (7.9) -- 4 fo, 150 perc, komplexitas: 3.9
+Battles of Westeros (7.2) -- 2 fo, 120 perc, komplexitas: 3.22
+For Sale (7.2) -- 6 fo, 30 perc, komplexitas: 1.25
+Power Grid (7.8) -- 6 fo, 120 perc, komplexitas: 3.26
+Century: Spice Road (7.3) -- 5 fo, 45 perc, komplexitas: 1.8
+Tawantinsuyu: The Inca Empire (7.4) -- 4 fo, 120 perc, komplexitas: 4.1
+Great Western Trail (8.2) -- 4 fo, 150 perc, komplexitas: 3.7
+Zombicide: Black Plague (7.6) -- 6 fo, 180 perc, komplexitas: 2.49
+Nusfjord (7.6) -- 5 fo, 100 perc, komplexitas: 2.84
+
+4. feladat - hosszModosit() teszt
+
+Jatekok szama: 16
+Secrets of the Lost Tomb (7.3) -- 6 fo, 120 perc, komplexitas: 3.19
+Not Alone (7) -- 7 fo, 45 perc, komplexitas: 2
+Photosynthesis (7) -- 4 fo, 60 perc, komplexitas: 2.26
+Star Realms (7.6) -- 2 fo, 20 perc, komplexitas: 1.93
+Voidfall (8.7) -- 4 fo, 240 perc, komplexitas: 4.58
+Forestaurant (7.4) -- 5 fo, 45 perc, komplexitas: 2.4
+Tikal (7.3) -- 4 fo, 50 perc, komplexitas: 2.78
+Mombasa (7.9) -- 4 fo, 150 perc, komplexitas: 3.9
+Battles of Westeros (7.2) -- 2 fo, 120 perc, komplexitas: 3.22
+For Sale (7.2) -- 6 fo, 60 perc, komplexitas: 1.25
+Power Grid (7.8) -- 6 fo, 120 perc, komplexitas: 3.26
+Century: Spice Road (7.3) -- 5 fo, 45 perc, komplexitas: 1.8
+Tawantinsuyu: The Inca Empire (7.4) -- 4 fo, 120 perc, komplexitas: 4.1
+Great Western Trail (8.2) -- 4 fo, 180 perc, komplexitas: 3.7
+Zombicide: Black Plague (7.6) -- 6 fo, 180 perc, komplexitas: 2.49
+Nusfjord (7.6) -- 5 fo, 100 perc, komplexitas: 2.84
+
+5. feladat - mitJatszunk() teszt
+
+Lehetosegek szama: 5
+Nusfjord (7.6) -- 5 fo, 100 perc, komplexitas: 2.84
+Forestaurant (7.4) -- 5 fo, 45 perc, komplexitas: 2.4
+Century: Spice Road (7.3) -- 5 fo, 45 perc, komplexitas: 1.8
+For Sale (7.2) -- 6 fo, 60 perc, komplexitas: 1.25
+Not Alone (7) -- 7 fo, 45 perc, komplexitas: 2
+
+main() vege!
+Press <RETURN> to close this window...

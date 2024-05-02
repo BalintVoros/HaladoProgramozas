@@ -1,0 +1,32 @@
+
+
+nevter teszt
+Number of values: 10,    min: 28.2505, max: 321.542, average: 150.994
+
+
+exception teszt
+Number of values: 10,    min: 28.2505, max: 321.542, average: 150.994
+Number of values: 50,    min: 66.592, max: 799.958, average: 440.243
+Number of values: 30,    min: 13.1286, max: 643.764, average: 99.1579
+Number of values: 10,    min: 17.714, max: 208.933, average: 143.459
+Unable to calculate statistics: data set is empty
+Number of values: 10,    min: 49.8115, max: 654.299, average: 320.953
+Number of values: 10,    min: 28.7383, max: 441.519, average: 253.44
+Number of values: 50,    min: 56.9335, max: 976.211, average: 466.094
+Unable to load data: file input1.txt not found
+Number of values: 50,    min: 12.4457, max: 908.251, average: 465.252
+Unable to calculate statistics: data set is empty
+Number of values: 30,    min: 46.6896, max: 875.221, average: 391.959
+Number of values: 30,    min: 13.031, max: 649.226, average: 332.999
+Number of values: 30,    min: 12.9335, max: 654.451, average: 81.4101
+Unable to calculate statistics: data set is empty
+Number of values: 50,    min: 31.2749, max: 764.242, average: 342.68
+
+
+sablon teszt
+-773 -654 -56 -53 -1 1 1 5 5 6 12 13 54 54 65 65 89 234 654 834
+-3333.55 -321.43 -66.2218 -2.4 12.5 44 65.2 68.87 122.8 211.543 555.842 632.53 745 766.14
+air apple earth final fire lol nothing other something water
+
+
+Vege

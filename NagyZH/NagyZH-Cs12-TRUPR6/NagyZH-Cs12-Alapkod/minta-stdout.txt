@@ -1,0 +1,164 @@
+main() eleje!
+
+Adatbazis teszt
+
+Rekordok szama: 23
+Jo munkat!
+
+
+1-3. feladat - alapok teszt
+
+Kiadok:
+  Czech Games Edition: in Czech Republic since 2007
+  Cogitate Games: in Hungary since 2011
+  Mindclash Games: in USA since 2014
+  Z-Man Games: in USA since 1999
+  Days of Wonder: in USA since 2002
+  Fantasy Flight Games: in USA since 1995
+Jatekok:
+  Trickerion: Legends of Illusion (Mindclash Games) -- 4 fo, 180 perc, 4.25/5, 8/10
+  Memoir '44 (Days of Wonder) -- 8 fo, 60 perc, 2.28/5, 7.5/10
+  Tzolkin: The Mayan Calendar (Czech Games Edition) -- 4 fo, 90 perc, 3.67/5, 7.9/10
+  The Prodigals Club (Czech Games Edition) -- 5 fo, 100 perc, 3.26/5, 7.3/10
+  Arkham Horror (Fantasy Flight Games) -- 8 fo, 240 perc, 3.58/5, 7.2/10
+  Battles of Westeros (Fantasy Flight Games) -- 2 fo, 120 perc, 3.22/5, 7.2/10
+  Forestaurant (Cogitate Games) -- 5 fo, 45 perc, 2.4/5, 7.4/10
+  Ticket to Ride (Days of Wonder) -- 5 fo, 60 perc, 1.83/5, 7.4/10
+  Lost Ruins of Arnak (Czech Games Edition) -- 4 fo, 120 perc, 2.91/5, 8.1/10
+  Star Wars: Outer Rim (Fantasy Flight Games) -- 4 fo, 180 perc, 2.52/5, 7.7/10
+  Grand Dog Park (Cogitate Games) -- 6 fo, 30 perc, 1.33/5, 6.6/10
+  Star Wars: Imperial Assault (Fantasy Flight Games) -- 5 fo, 120 perc, 3.3/5, 8/10
+  Voidfall (Mindclash Games) -- 4 fo, 240 perc, 4.58/5, 8.7/10
+  Small World (Days of Wonder) -- 5 fo, 80 perc, 2.35/5, 7.2/10
+  Descent: Journeys in the Dark (Fantasy Flight Games) -- 5 fo, 240 perc, 3.34/5, 7.3/10
+  Codenames (Czech Games Edition) -- 8 fo, 15 perc, 1.26/5, 7.6/10
+  A Game of Thrones (Fantasy Flight Games) -- 5 fo, 180 perc, 3.45/5, 7.2/10
+  Alchemists (Czech Games Edition) -- 4 fo, 120 perc, 3.93/5, 7.6/10
+  Five Tribes (Days of Wonder) -- 4 fo, 80 perc, 2.85/5, 7.8/10
+  Black Gold (Fantasy Flight Games) -- 5 fo, 120 perc, 2.59/5, 6.8/10
+  Anachrony (Mindclash Games) -- 4 fo, 120 perc, 4.02/5, 8.1/10
+  Walking Baby (Cogitate Games) -- 4 fo, 45 perc, 2/5, 6.5/10
+  Last Will (Czech Games Edition) -- 5 fo, 75 perc, 2.72/5, 7.2/10
+Kiadok:
+Jatekok:
+
+4. feladat - kiadokJatekai() teszt
+
+Cogitate Games jatekai:
+  Forestaurant (Cogitate Games) -- 5 fo, 45 perc, 2.4/5, 7.4/10
+  Grand Dog Park (Cogitate Games) -- 6 fo, 30 perc, 1.33/5, 6.6/10
+  Walking Baby (Cogitate Games) -- 4 fo, 45 perc, 2/5, 6.5/10
+Days of Wonder jatekai:
+  Memoir '44 (Days of Wonder) -- 8 fo, 60 perc, 2.28/5, 7.5/10
+  Ticket to Ride (Days of Wonder) -- 5 fo, 60 perc, 1.83/5, 7.4/10
+  Small World (Days of Wonder) -- 5 fo, 80 perc, 2.35/5, 7.2/10
+  Five Tribes (Days of Wonder) -- 4 fo, 80 perc, 2.85/5, 7.8/10
+Czech Games Edition jatekai:
+  Tzolkin: The Mayan Calendar (Czech Games Edition) -- 4 fo, 90 perc, 3.67/5, 7.9/10
+  The Prodigals Club (Czech Games Edition) -- 5 fo, 100 perc, 3.26/5, 7.3/10
+  Lost Ruins of Arnak (Czech Games Edition) -- 4 fo, 120 perc, 2.91/5, 8.1/10
+  Codenames (Czech Games Edition) -- 8 fo, 15 perc, 1.26/5, 7.6/10
+  Alchemists (Czech Games Edition) -- 4 fo, 120 perc, 3.93/5, 7.6/10
+  Last Will (Czech Games Edition) -- 5 fo, 75 perc, 2.72/5, 7.2/10
+Fantasy Flight Games jatekai:
+  Arkham Horror (Fantasy Flight Games) -- 8 fo, 240 perc, 3.58/5, 7.2/10
+  Battles of Westeros (Fantasy Flight Games) -- 2 fo, 120 perc, 3.22/5, 7.2/10
+  Star Wars: Outer Rim (Fantasy Flight Games) -- 4 fo, 180 perc, 2.52/5, 7.7/10
+  Star Wars: Imperial Assault (Fantasy Flight Games) -- 5 fo, 120 perc, 3.3/5, 8/10
+  Descent: Journeys in the Dark (Fantasy Flight Games) -- 5 fo, 240 perc, 3.34/5, 7.3/10
+  A Game of Thrones (Fantasy Flight Games) -- 5 fo, 180 perc, 3.45/5, 7.2/10
+  Black Gold (Fantasy Flight Games) -- 5 fo, 120 perc, 2.59/5, 6.8/10
+Mindclash Games jatekai:
+  Trickerion: Legends of Illusion (Mindclash Games) -- 4 fo, 180 perc, 4.25/5, 8/10
+  Voidfall (Mindclash Games) -- 4 fo, 240 perc, 4.58/5, 8.7/10
+  Anachrony (Mindclash Games) -- 4 fo, 120 perc, 4.02/5, 8.1/10
+
+5. feladat - nevsorrendben() teszt
+
+A Game of Thrones
+Alchemists
+Anachrony
+Arkham Horror
+Battles of Westeros
+Black Gold
+Codenames
+Descent: Journeys in the Dark
+Five Tribes
+Forestaurant
+Grand Dog Park
+Last Will
+Lost Ruins of Arnak
+Memoir '44
+Small World
+Star Wars: Imperial Assault
+Star Wars: Outer Rim
+The Prodigals Club
+Ticket to Ride
+Trickerion: Legends of Illusion
+Tzolkin: The Mayan Calendar
+Voidfall
+Walking Baby
+
+6. feladat - legtobbJatekosKiado() teszt
+
+A legtobb jatekos kiado: Fantasy Flight Games
+
+7. feladat - atlagErtekeles() teszt
+
+Mindclash Games atlagos ertekelese: 8.26667
+Days of Wonder atlagos ertekelese: 7.475
+
+7/a. feladat - atlagErtekeles() kivetellel teszt
+
+Czech Games Edition atlagos ertekelese: 7.61667
+standard exception: A Z-Man Games kiadohoz nincs tarolt jatek
+Cogitate Games atlagos ertekelese: 6.83333
+standard exception: A 2F Spiele kiadohoz nincs tarolt jatek
+Fantasy Flight Games atlagos ertekelese: 7.34286
+
+8. feladat - komplexitasKeres() teszt
+
+3.0 es 4.0 komplexitas kozotti jatekok:
+Star Wars: Imperial Assault (Fantasy Flight Games) -- 5 fo, 120 perc, 3.3/5, 8/10
+Tzolkin: The Mayan Calendar (Czech Games Edition) -- 4 fo, 90 perc, 3.67/5, 7.9/10
+Alchemists (Czech Games Edition) -- 4 fo, 120 perc, 3.93/5, 7.6/10
+The Prodigals Club (Czech Games Edition) -- 5 fo, 100 perc, 3.26/5, 7.3/10
+Descent: Journeys in the Dark (Fantasy Flight Games) -- 5 fo, 240 perc, 3.34/5, 7.3/10
+Arkham Horror (Fantasy Flight Games) -- 8 fo, 240 perc, 3.58/5, 7.2/10
+Battles of Westeros (Fantasy Flight Games) -- 2 fo, 120 perc, 3.22/5, 7.2/10
+A Game of Thrones (Fantasy Flight Games) -- 5 fo, 180 perc, 3.45/5, 7.2/10
+
+9-9/a. feladat - felvasarol() teszt
+
+Jatekok:
+  Trickerion: Legends of Illusion (Mindclash Games) -- 4 fo, 180 perc, 4.25/5, 8/10
+  Memoir '44 (Fantasy Flight Games) -- 8 fo, 60 perc, 2.28/5, 7.5/10
+  Tzolkin: The Mayan Calendar (Czech Games Edition) -- 4 fo, 90 perc, 3.67/5, 7.9/10
+  The Prodigals Club (Czech Games Edition) -- 5 fo, 100 perc, 3.26/5, 7.3/10
+  Arkham Horror (Fantasy Flight Games) -- 8 fo, 240 perc, 3.58/5, 7.2/10
+  Battles of Westeros (Fantasy Flight Games) -- 2 fo, 120 perc, 3.22/5, 7.2/10
+  Forestaurant (Cogitate Games) -- 5 fo, 45 perc, 2.4/5, 7.4/10
+  Ticket to Ride (Fantasy Flight Games) -- 5 fo, 60 perc, 1.83/5, 7.4/10
+  Lost Ruins of Arnak (Czech Games Edition) -- 4 fo, 120 perc, 2.91/5, 8.1/10
+  Star Wars: Outer Rim (Fantasy Flight Games) -- 4 fo, 180 perc, 2.52/5, 7.7/10
+  Grand Dog Park (Cogitate Games) -- 6 fo, 30 perc, 1.33/5, 6.6/10
+  Star Wars: Imperial Assault (Fantasy Flight Games) -- 5 fo, 120 perc, 3.3/5, 8/10
+  Voidfall (Mindclash Games) -- 4 fo, 240 perc, 4.58/5, 8.7/10
+  Small World (Fantasy Flight Games) -- 5 fo, 80 perc, 2.35/5, 7.2/10
+  Descent: Journeys in the Dark (Fantasy Flight Games) -- 5 fo, 240 perc, 3.34/5, 7.3/10
+  Codenames (Czech Games Edition) -- 8 fo, 15 perc, 1.26/5, 7.6/10
+  A Game of Thrones (Fantasy Flight Games) -- 5 fo, 180 perc, 3.45/5, 7.2/10
+  Alchemists (Czech Games Edition) -- 4 fo, 120 perc, 3.93/5, 7.6/10
+  Five Tribes (Fantasy Flight Games) -- 4 fo, 80 perc, 2.85/5, 7.8/10
+  Black Gold (Fantasy Flight Games) -- 5 fo, 120 perc, 2.59/5, 6.8/10
+  Anachrony (Mindclash Games) -- 4 fo, 120 perc, 4.02/5, 8.1/10
+  Walking Baby (Cogitate Games) -- 4 fo, 45 perc, 2/5, 6.5/10
+  Last Will (Czech Games Edition) -- 5 fo, 75 perc, 2.72/5, 7.2/10
+Kiadok:
+  Czech Games Edition: in Czech Republic since 2007
+  Cogitate Games: in Hungary since 2011
+  Mindclash Games: in USA since 2014
+  Z-Man Games: in USA since 1999
+  Fantasy Flight Games: in USA since 1995
+
+main() vege!

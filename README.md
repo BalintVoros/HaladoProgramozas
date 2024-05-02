@@ -1,2 +1,4 @@
 # HaladoProgramozas
-HaladóProgramozás Megoldott feladatok
+Haladó Programozás Megoldott feladatok
+
+

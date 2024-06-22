@@ -1,4 +1,4 @@
-# HaladoProgramozas
+# Halado Programozas
 Haladó Programozás Megoldott feladatok
 
 2023/2024/1 félévben elkészített Feladatok:
